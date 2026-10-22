@@ -1,0 +1,4 @@
+dy/dx = x^2 + y
+x0 = 1, y(x0) = 2, target x = 5, h = 0.0001, number of steps = 40000
+
+Milne-Simpson Method: value at last x = 345.187050232007, exact = 345.187050232010, error = 2.614797268e-12
